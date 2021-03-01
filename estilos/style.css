@@ -1,0 +1,46 @@
+/* Número: 56922, Nome: João Pedro Leal, TP: 25 */
+
+html {
+    font-family: Arial, sans-serif;
+    color: #333300;
+}
+
+header, nav {
+    background-color: #888833;
+}
+
+body {
+    background-color: #999966;
+}
+
+footer {
+    color: #cccc99;
+    font-size: x-small;
+    font-style: italic;
+}
+
+footer, .selected {
+    background-color: #666633;
+}
+
+section {
+    background-color: #cccc99;
+}
+
+.selected {
+    color: white;
+}
+
+section a {
+    color: #444411;
+}
+
+footer a {
+    color: #eeeebb;
+}
+
+code {
+    color: black;
+    font-weight: 900;
+    font-family: Consolas, monospace;
+}
